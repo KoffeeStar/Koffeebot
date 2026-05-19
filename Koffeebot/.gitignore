@@ -1,0 +1,24 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.lock.json
+
+# macOS
+.DS_Store
+
+# Secrets and config
+appsettings.json
+*.env
+secrets.txt
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
