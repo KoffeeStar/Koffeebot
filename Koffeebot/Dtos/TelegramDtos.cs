@@ -28,9 +28,3 @@ namespace Koffeebot.Dtos
         public TelegramMessage? EditedMessage { get; set; }
     }
 }
-public class TelegramUpdate
-    {
-        public int UpdateId { get; set; }
-        public TelegramMessage? Message { get; set; }
-        public TelegramMessage? EditedMessage { get; set; }
-    }

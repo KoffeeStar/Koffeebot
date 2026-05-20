@@ -1,5 +1,4 @@
-﻿using Microsoft.OpenApi.Models;
-using Koffeebot.Repositories.Interfaces;
+﻿using Koffeebot.Repositories.Interfaces;
 using Koffeebot.Repositories.Models;
 using System.Collections.Concurrent;
 

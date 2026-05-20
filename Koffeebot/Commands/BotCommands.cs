@@ -1,7 +1,6 @@
 ﻿using Koffeebot.Dtos;
 using Koffeebot.Repositories.Interfaces;
 using Koffeebot.Repositories.Models;
-using Microsoft.OpenApi.Models;
 using Telegram.Bot;
 using Telegram.Bot.Types;
 

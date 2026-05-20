@@ -1,5 +1,4 @@
-﻿using Microsoft.OpenApi.Models;
-using Koffeebot.Repositories.Interfaces;
+﻿using Koffeebot.Repositories.Interfaces;
 using Koffeebot.Repositories.Models;
 using Koffeebot.Settings;
 using System.Net.Http.Headers;

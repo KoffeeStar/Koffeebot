@@ -1,6 +1,5 @@
 ﻿using Koffeebot.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using Koffeebot.Repositories.Interfaces;
 
 namespace Koffeebot.Controllers
 {

@@ -1,5 +1,4 @@
-﻿using Microsoft.OpenApi.Models;
-using Koffeebot.Repositories.Models;
+﻿using Koffeebot.Repositories.Models;
 
 namespace Koffeebot.Repositories.Interfaces
 {
