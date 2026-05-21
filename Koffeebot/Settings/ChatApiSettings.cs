@@ -3,7 +3,7 @@
     public static class ChatApiSettings
     {
         public static string BaseUrl { get; } = "https://openrouter.ai/api/v1/chat/completions";
-        public static string ApiKey { get; } = "тут был мой ключ, но с ним на гитхаб нельзя было выгрузить";
-        public static string DefaultModel { get; } = "gpt-3.5-turbo";
+        public static string ApiKey { get; } = "ключ";
+        public static string DefaultModel { get; } = "baidu/cobuddy:free";
     }
 }

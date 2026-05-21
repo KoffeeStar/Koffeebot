@@ -21,7 +21,6 @@ namespace Koffeebot.Repositories.Implementations
         {
             var messagesList = history.ToList();
 
-            // 👇 ЛОГИРОВАНИЕ: смотри в терминал, что отправляем
             Console.WriteLine("=== Sending to OpenRouter ===");
             foreach (var msg in messagesList)
             {
